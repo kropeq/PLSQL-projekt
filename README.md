@@ -27,3 +27,7 @@ Wybraną tematyką projektu są **skoki narciarskie**, którymi się interesuję
 - reprezentacje i ich główni trenerzy,
 - historię rekordów danych skoczni,
 - inne, mniej istotne informacje( np. sponsorzy klubów czy wykonawców przebudowań ), lecz dopełniające całość.
+
+### Scenariusz
+
+[Scenariusz](https://github.com/kropeq/PLSQL-projekt/blob/master/1_scenariusz.pdf) zawiera szczegółowy opis tego, co zawiera baza danych i za co każdy z elementów bazy odpowiada. Przedstawia również krótki opis dlaczego taki temat został podjęty.
