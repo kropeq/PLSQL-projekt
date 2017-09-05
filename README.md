@@ -78,3 +78,63 @@ Strona internetowa zawierająca rejestrację oraz logowanie. Użytkownik po zalo
 
 ---
 ### Prezentacja aplikacji
+
+##### Logowanie
+Panel logowania oraz możliwość przejścia do rejestracji
+
+![Logowanie](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/logowanie.png)
+
+##### Skocznie
+Widok po zalogowaniu i wejściu w zakładkę Skocznie, a także po wybraniu kraju, z którego chce się przejrzeć listę skoczni. Dostępne są na górze zakładki breadcrumbs do szybkiej nawigacji, a także panel z zakładkami z konkretnymi kategoriami danych.
+
+![Skocznie](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/rekordy_skoczni.png)
+
+##### Przebudowy
+Po wybraniu linku _Przebudowy_, wyświetla się spis zarejestrowanych modernizacji obiektu.
+
+![Przebudowy](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/przebudowy_skoczni.png)
+
+##### Konkursy i klasyfikacje
+Po wybraniu sezonu dostępna jest lista odbytych konkursów, a także klasyfikacje generalne tego sezonu wyliczane na podstawie wyników konkursów.
+
+![Konkursy i klasyfikacje](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/konkursy_i_klasyfikacje.png)
+
+##### Pogoda
+Po wybraniu linku _Pogoda_ danego konkursu, wyświetla się szczegółowy opis zarejestrowanej pogody w tym konkursie.
+
+![Pogoda](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/pogoda.png)
+
+##### Wyniki
+Wprowadzone w bazie danych wyniki są prezentowane w formie tabeli, a użytkownik ma możliwość sortowania względem dowolnego nagłówka.
+
+![Wyniki](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/wyniki_konkursu.png)
+
+##### Klasyfikacja
+Na podstawie wprowadzonych do bazy danych wyników konkursów są wyliczane klasyfikacje( indywidualna i drużynowa). Klasyfikacje również są prezentowane w formie tabeli z możliwością sortowania względem dowolnego nagłówka.
+
+![Klasyfikacja](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/klasyfikacja_indywidualna.png)
+
+##### Wykres
+Na podstawie wyników konkursów zbierane są informacje o wystawianych notach sędziowskich i utworzona jest statystyka, które przedstawiona jest w formie wykresu.
+
+![Wykres](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/statystyka_wystawianych_not.png)
+
+##### Kalendarz
+Daty konkursów są zaznaczane w utworzonym kalendarzu wraz z nazwą skoczni, na której konkurs się odbędzie.
+
+![Kalendarz](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/kalendarz_zawodow.png)
+
+##### Panel administratora
+Z poziomu administratora dostępny jest również panel administratora, w którym istnieje możliwość modyfikacji danych zawartych w bazie danych.
+
+![Panel administratora](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/edycja_wynikow_konkursu.png)
+
+##### Uprawnienia
+Administrator ma również dostęp do zarządzania uprawnieniami użytkowników.
+
+![Uprawnienia](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/zmiana_uprawnien_uzytkownikow.png)
+
+##### Procedury
+Administrator ma możliwość wywoływania procedur odpowiadających za aktualizację klasyfikacji generalnych z poziomu strony internetowej.
+
+![Procedury](https://github.com/kropeq/PLSQL-projekt/blob/master/screens/wywolanie_procedury_z_poziomu_strony.png)
